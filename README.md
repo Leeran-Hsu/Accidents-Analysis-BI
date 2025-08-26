@@ -37,6 +37,7 @@ A small **sample dataset** is provided for demonstration (500 records).
 
 ## Repository Structure
 📂 Accidents-Analysis-BI
+
 ┣ 📜 Accidents - Power Query.xlsx
 
 ┣ 📜 Presentation.pptx - Includes everything what we have done from scratch (Hebrew)
