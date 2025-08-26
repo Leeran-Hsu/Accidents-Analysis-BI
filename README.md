@@ -38,10 +38,15 @@ A small **sample dataset** is provided for demonstration (500 records).
 ## Repository Structure
 📂 Accidents-Analysis-BI
 ┣ 📜 Accidents - Power Query.xlsx
+
 ┣ 📜 Presentation.pptx - Includes everything what we have done from scratch (Hebrew)
+
 ┣ 📜 Project_Accident Dashboards.pbix - Dashbord Power BI
+
 ┣ 📜 Project Accidents DB - sample.xlsx - Small sample of the dataset
+
 ┣ 📸 dashboard.png - Screenshot of the dashboard
+
 ┗ 📜 README.md - Project documentation
 
 ---
