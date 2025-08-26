@@ -55,6 +55,11 @@ A small **sample dataset** is provided for demonstration (500 records).
 ## Dashboard Preview
 <img width="1325" height="742" alt="image" src="https://github.com/user-attachments/assets/7f1dbc44-35b8-479c-9aad-46bbbcc12652" />
 
+## Dashboard Overview
+The dashboard provides an interactive analysis of road accidents in Israel.  
+It highlights key trends over time, identifies the **top 5 causes of accidents**, and analyzes patterns by **day of week, road defects, lighting conditions, and time of day**.  
+With KPIs, charts, and filters by year and month, it enables stakeholders to quickly understand **when, where, and why accidents are most likely to occur**.
+
 ---
 
 ## Author
