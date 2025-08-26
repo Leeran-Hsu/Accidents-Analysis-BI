@@ -1,5 +1,3 @@
-<img width="1325" height="742" alt="image" src="https://github.com/user-attachments/assets/629bc4e9-6563-4eea-952e-da1dd81b937b" /># Road Accidents Analysis Project
-
 This project focuses on analyzing road accidents data in USA using **Power BI**, **SQL**, **PowerQuery** and **Excel**.  
 The goal of the project was to explore accident trends, identify the leading causes(weather or road conditions) and build an interactive dashboard for insights.
 
